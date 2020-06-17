@@ -1,0 +1,46 @@
+
+
+form
+{
+	margin:auto;
+	padding:15px;
+	
+}
+
+form div svg
+{
+	padding-top:1px;
+}
+
+#a
+{
+	background:black;
+	color:white;
+	border-color:black;
+}
+
+#container
+{
+	margin:auto;
+	text-align:center;
+	background-image: url("1.jpg");
+	width:400px;
+	border-radius:20px;
+	color:white;
+	height:470px;
+}
+a
+{
+ color:#CD225E;}
+h3
+{
+	margin:auto;
+	padding:15px;
+}
+
+#l
+{
+margin:auto;
+text-align:center;
+}
+

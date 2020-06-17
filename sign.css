@@ -1,0 +1,42 @@
+h1
+{
+	width:400px;
+	height:60px;
+	
+	color:white;
+	margin:auto;
+}
+
+form
+{
+	
+	color: white;
+	margin:auto;
+	padding:15px;
+	
+}
+
+form div svg
+{
+	padding-top:15px;
+}
+
+
+#a
+{
+	background:black;
+	color:white;
+	border-color:black;
+	
+}
+
+
+
+.container
+{
+	margin:auto;
+	text-align:center;
+	background-image: url("1.jpg");
+	width:450px;
+	border-radius:20px;
+}
